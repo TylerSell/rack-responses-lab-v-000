@@ -1,5 +1,5 @@
 class Application
   def call 
-    resp = 
+    resp = Rack::Response
   end
 end
